@@ -1,0 +1,7 @@
+*
+!docker-compose.yml
+!Dockerfile
+!.gitignore
+!README.md
+!plugins/PaywallPlugin
+!start.sh
