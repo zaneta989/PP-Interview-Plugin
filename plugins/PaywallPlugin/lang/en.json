@@ -1,0 +1,11 @@
+{
+    "PaywallPlugin": {
+        "PaywallPlugin": "Paywall Plugin",
+        "PaywallPlan": "Paywall Plan",
+        "PaywallPlanReport": "Paywall Plan Report",
+        "PaywallPlanWidget": "Paywall Plan Widget",
+        "ArticleId": "Article Id",
+        "ArticleIdReport": "Article Id Report",
+        "ArticleIdWidget": "Article Id Widget"
+    }
+}
