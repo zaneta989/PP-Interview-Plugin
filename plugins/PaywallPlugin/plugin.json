@@ -1,0 +1,29 @@
+{
+  "name": "PaywallPlugin",
+  "description": "Paywall Plugin",
+  "version": "0.1.0",
+  "theme": false,
+  "require": {
+    "piwik": ">=3.6.1-b2,<4.0.0-b1"
+  },
+  "authors": [
+    {
+      "name": "Żaneta Larwa",
+      "email": "",
+      "homepage": ""
+    }
+  ],
+  "support": {
+	    "email": "",
+	    "issues": "",
+	    "forum": "",
+	    "irc": "",
+	    "wiki": "",
+	    "source": "",
+	    "docs": "",
+	    "rss": ""
+  },
+  "homepage": "",
+  "license": "GPL v3+",
+  "keywords": []
+}

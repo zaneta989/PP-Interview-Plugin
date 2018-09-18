@@ -17,3 +17,10 @@ services:
       MYSQL_DATABASE: dev
     ports:
       - 3306:3306
+  website:
+    image: nginx:alpine
+    container_name: website
+    volumes:
+      - ./website:/usr/share/nginx/html
+    ports:
+      - 8080:80
